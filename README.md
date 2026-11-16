@@ -15,7 +15,7 @@
 | **Statistical modeling** | Linear mixed models (ASReml, lme4), Bayesian hierarchical models (Stan), spatial field-trial analysis |
 | **Information theory** | Mutual information and Shannon entropy for marker selection and stability |
 | **Time series & spatial** | ARIMA/SARIMA, Prophet, geostatistics/kriging, NDVI from remote sensing |
-| **Machine learning** | CNNs for plant disease detection, Random Forest, clustering |
+| **Machine learning** | CNNs for plant disease detection, Random Forest, clustering, PCA, Factor Analysis, GLM |
 
 ## ⭐ Featured projects
 
