@@ -38,4 +38,4 @@
 ## 📫 Contact
 
 <!-- Add your links once ready: personal website, LinkedIn, ORCID, Google Scholar -->
-🌐 Website: *coming soon*
+🌐 Website: https://raruizc.github.io/
