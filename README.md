@@ -23,7 +23,7 @@
 - [**nordic-barley-fa-mi**](https://github.com/raruizc/nordic-barley-fa-mi): factor-analytic models + mutual information in Nordic barley multi-environment trials
 - [**Wheat Bayesian + Information Theory**](https://github.com/raruizc/LCF5900_Wheat-Bayesian-Infotheory_Breeding): Bayesian G×E and multi-trait selection
 - [**Tomato Disease Identification**](https://github.com/raruizc/DiseaseIdentification): CNN classifier, 10 classes, ~89% validation accuracy
-- [**AgriRaster**](https://github.com/raruizc/AgriRaster): vegetation indices, kriging and clustering of aerial imagery (Python)
+- [**Tahiti Lemon Price Analysis**](https://github.com/raruizc/TahitiLemonPriceAnalysis): ARIMA, SARIMA analysis in volatility serialtime prices
 - [**Climate Time Series Piracicaba**](https://github.com/raruizc/ClimateTimeSeriesPiracicaba): ENSO effects on extreme weather, 1950–2026
 
 ## 🛠️ Tools
